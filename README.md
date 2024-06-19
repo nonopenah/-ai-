@@ -13,7 +13,8 @@
 ## 설치 방법
 1. **필요한 패키지 설치**
    ```bash
-   pip install openai streamlit
+   pip install openai
+   pip install streamlit
    
 ## 사용 방법
 1. 웹브라우저에 접속합니다.
