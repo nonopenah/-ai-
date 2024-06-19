@@ -4,9 +4,9 @@ import subprocess
 app = Flask(__name__)
 
 # Streamlit을 서브프로세스로 실행
-# 챗봇을 만들어든 python 파일의 이름을 "챗봇.py"에 넣어야 파일이 연걸되어 로컬로 열림.
+# 챗봇을 만든 python 파일의 이름을 'ongi_bot.py'에 넣어야 파일이 연결되어 로컬로 열림.
 def run_streamlit():
-    subprocess.Popen(['streamlit', 'run', '챗봇.py'])
+    subprocess.Popen(['streamlit', 'run', 'ongi_bot.py'])
 
 @app.route('/')
 def index():
