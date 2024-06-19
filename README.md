@@ -1,5 +1,5 @@
 # 가출 청소년을 위한 온라인 쉼터 '온기'
-![chatbot_logo.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/chatbot_logo.png)
+![chatbot_logo_small.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/chatbot_logo_small.png)
 
 ## 개요
 - **온기**는 가출 청소년들이 직면하는 다양한 문제와 고민에 대해 도움을 주기 위해 설계된 온라인 챗봇입니다.
@@ -24,12 +24,14 @@
    ```bash
    pip install openai
    pip install streamlit
+```
 <br>
 
 ## 사용 방법
 1. 웹브라우저에 접속합니다.
    - 링크: http://10.101.52.34:8501
-   - 웹 서
+   - 웹 서버가 켜져 있을 경우에만 가능합니다.
+   - 
 2. 챗봇과 대화하며 고민을 나눕니다.
 3. 필요 시 자신의 위치를 제공하고 근처 쉼터 정보를 얻습니다.
 
