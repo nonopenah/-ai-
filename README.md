@@ -1,5 +1,5 @@
 # 가출 청소년을 위한 온라인 쉼터 '온기'
-(chatbot_logo.png)
+![chatbot_logo.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/chatbot_logo.png)
 
 ## 개요
 - **온기**는 가출 청소년들이 직면하는 다양한 문제와 고민에 대해 도움을 주기 위해 설계된 온라인 챗봇입니다.
