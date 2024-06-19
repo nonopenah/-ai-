@@ -24,7 +24,7 @@ thread_messages = client.beta.threads.messages.list(thread_id)
 
 # 페이지 제목 및 로고
 col1, col2 = st.columns([1, 5])
-with col1: # HTML 코드를 사용해 페이지 제목과 소제목을 표시
+with col1:
     st.image("ongi_image.png", width=100)  # 로고 이미지 경로와 크기 설정
 with col2: # HTML 코드를 사용해 페이지 제목과 소제목을 표시
     # h1: 제목, p: 소제목
