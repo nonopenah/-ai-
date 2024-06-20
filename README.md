@@ -77,6 +77,6 @@ URL: https://gist.github.com/youtube-jocoding/ba302959cc05af01a04edc6e864e2c09<b
 
 | 이름          | GitHub 사용자명                              | 기여 내용                          |
 | --------------- | ------------------------------------------- | ---------------------------------- |
-| 이유민(팀장)    | [YUM1yum](https://github.com/YUM1yum) |               |
-| 김나희          | [nonopenah](https://github.com/nonopenah) |                |
-| 박다인          | [qkrekdls](https://github.com/qkrekdls)        |              |
+| 이유민(팀장)    | [YUM1yum](https://github.com/YUM1yum) |  챗봇 서비스 로직 코드 구현  |
+| 김나희          | [nonopenah](https://github.com/nonopenah) |  데이터 수집, UI 구성  |
+| 박다인          | [qkrekdls](https://github.com/qkrekdls)        |  데이터 전처리, 웹 배포  |
