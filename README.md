@@ -20,6 +20,11 @@
 - 사용자가 언제든지 이전 대화 내용을 참고할 수 있습니다. <br><br>
 
 ## 개발자 실행 방법
+**<OpenAI API key 발급>**
+-  아래 OpenAI API 주소에서 발급받을 수 있습니다.
+  ```bash
+  https://openai.com/index/openai-api/
+```
 **<실행에 필요한 패키지 설치>**
    ```bash
    pip install openai
