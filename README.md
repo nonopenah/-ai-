@@ -23,6 +23,7 @@
 **<OpenAI API key 발급>**
 -  아래 OpenAI API 주소에서 발급받을 수 있습니다.<br>
   https://openai.com/index/openai-api/<br>
+
 **<실행에 필요한 패키지 설치>**
    ```bash
    pip install openai
