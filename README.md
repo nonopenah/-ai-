@@ -20,7 +20,7 @@
 - 사용자가 언제든지 이전 대화 내용을 참고할 수 있습니다. <br><br>
 
 ## 개발자 실행 방법
-**<OpenAI API key 발급>**<br>
+**<OpenAI API 사용>**<br>
   https://openai.com/index/openai-api/<br>
 -  위의 OpenAI API 주소에서 발급받을 수 있습니다.
 -  발급받은 key를 ongi_bot.py의 'API_KEY' 부분에 입력합니다.
