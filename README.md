@@ -71,7 +71,7 @@
 <br>
 ## 참고
 **<참고 github>**<br>
-URL: <br>
+URL: https://gist.github.com/youtube-jocoding/ba302959cc05af01a04edc6e864e2c09<br>
 
 **<여성가족부 청소년 쉼터 현황_일부>**
 | 쉼터 이름                | 지역   | 구      | 주소                                             원 목록
