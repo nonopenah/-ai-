@@ -1,3 +1,6 @@
+# 다음 github의 코드를 수정하여 작성한 코드임.
+# https://gist.github.com/youtube-jocoding/ba302959cc05af01a04edc6e864e2c09
+
 import os
 from openai import OpenAI
 import streamlit as st
