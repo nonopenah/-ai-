@@ -34,7 +34,7 @@
   ```bash
   python "챗봇웹배포파일이름".py
 ```
-이렇게 실행할 경우, local URL과 network URL이 발급됩니다.
+- 이렇게 실행할 경우, local URL과 network URL이 발급됩니다.<br>
 이 URL을 공유하여 다른 사용자들도 챗봇을 사용하게 할 수 있습니다.
 
 <br>
