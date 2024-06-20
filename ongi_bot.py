@@ -17,7 +17,7 @@ if 'thread_id' not in st.session_state:
 thread_id = st.session_state.thread_id #이미 생성된 스레드 ID가 있는 경우 재사용
 
 # 특정한 대화 에이전트를 지정하기 위해 OpenAI API에서 사용할 어시스턴드 ID를 설정
-assistant_id = "asst_j4TpIYX2pAK7JarO71cGJ5Dr"
+assistant_id = "ASSISTANT_ID"
 
 # 현재 대화 스레드의 모든 메세지 불러오기
 thread_messages = client.beta.threads.messages.list(thread_id)
