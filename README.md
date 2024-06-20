@@ -25,7 +25,7 @@
 -  위의 OpenAI API 주소에서 발급받을 수 있습니다.
 -  발급받은 key를 ongi_bot.py의 'API_KEY' 부분에 입력합니다.
 -  OpenAI API의 Dashboard에서 assistants를 생성한 후, ongi_bot.py의 "ASSISTANT_ID"에 assistant ID를 입력합니다.
--  assistants의 instruction에 설계한 챗봇의 성격과 대화 흐름을 입력합니다.
+-  assistants의 instruction에 챗봇의 목적에 따른 챗봇의 성격과 대화 흐름을 입력합니다.
 
 **<실행에 필요한 패키지 설치>**
    ```bash
