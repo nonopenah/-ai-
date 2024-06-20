@@ -58,3 +58,11 @@
 
 **[위험 시그널]**<br>
 ![result3.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/resultPNG/result3.png)
+<br>
+## 기여자 목록
+
+| 이름          | GitHub 사용자명                             | 기여 내용                          |
+| --------------- | ------------------------------------------- | ---------------------------------- |
+| 이유민(팀장)    | [](https://github.com/) |               |
+| 김나희          | [](https://github.com/) |                |
+| 박다인          | [](https://github.com/)         |              |
