@@ -23,7 +23,7 @@
 **<OpenAI API key 발급>**<br>
   https://openai.com/index/openai-api/<br>
 -  위의 OpenAI API 주소에서 발급받을 수 있습니다.
--  발급받은 key를 'API_KEY 부분에 입력합니다.
+-  발급받은 key를 ongi_bot.py의 'API_KEY 부분에 입력합니다.
 
 **<실행에 필요한 패키지 설치>**
    ```bash
