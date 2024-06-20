@@ -1,5 +1,6 @@
 # 가출 청소년을 위한 온라인 쉼터 '온기'
 ![chatbot_logo_small.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/LogoPNG/chatbot_logo_small.png)
+
 ## 개요
 - **온기**는 가출 청소년들이 직면하는 다양한 문제와 고민에 대해 도움을 주기 위해 설계된 온라인 챗봇입니다.
 - 사용자는 챗봇과 대화를 통해 심리적 지원을 받고, 가까운 쉼터의 정보를 얻을 수 있습니다. <br><br>
@@ -25,11 +26,14 @@
    pip install streamlit
    pip install Flask
 ```
-
+**<프로젝트 클론>**
+   ```bash
+   git clone https://github.com/nonopenah/chatbot-AI-for-runaway-teenager.git
+```
 **<터미널 실행 방법>**
   ```bash
   python "챗봇웹배포파일이름".py
-  ```
+```
 이렇게 실행할 경우, local URL과 network URL이 발급됩니다.
 이 URL을 공유하여 다른 사용자들도 챗봇을 사용하게 할 수 있습니다.
 
@@ -43,4 +47,14 @@
 2. 챗봇과 대화하며 고민을 나눕니다.
 3. 필요 시 자신의 위치를 제공하고 근처 쉼터 정보를 얻습니다.
 4. 위험 시그널이 감지될 경우, 챗봇이 잘못된 선택을 하지 않도록 관련 정보들을 제공해줍니다.
+<br><br>
 
+## 결과 예시
+**[고민 상담]**<br>
+![result1.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/resultPNG/result1.png)
+
+**[쉼터 정보]**<br>
+![result2.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/resultPNG/result2.png)
+
+**[위험 시그널]**<br>
+![result3.png](https://github.com/nonopenah/chatbot-AI-for-runaway-teenager/blob/main/resultPNG/result3.png)
